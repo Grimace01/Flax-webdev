@@ -1,12 +1,13 @@
 body {
     background-color: thistle;
+    background-image: url("https://s3.amazonaws.com/secretsaucefiles/photos/images/000/170/098/large/minced-meat-1747910_960_720.jpg?1498768697");
 }
 h2 {
   color: #FFFFFF;
 }
 
 #pagetitle {
-    background-color: tomato;
+    background-color:rgb(25, 4, 252);
     text-align: center;
     padding: 50px;
     border: dotted;
